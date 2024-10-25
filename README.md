@@ -36,6 +36,7 @@ Icon | Character | Text
 Icon | Character | Text
 --- | --- | ---
 ![Poisoner](https://wiki.bloodontheclocktower.com/images/b/b1/Icon_poisoner.png) | **Poisoner** | Each night, choose a player: they are poisoned tonight and tomorrow day.
+![Assassin](https://wiki.bloodontheclocktower.com/images/4/49/Icon_assassin.png) | **Assassin** | Once per game, at night\*, choose a player: they die, even if for some reason they could not.
 ![Widow](https://wiki.bloodontheclocktower.com/images/9/99/Icon_widow.png) | **Widow** | On your first night, look at the Grimoire & choose a player: they are poisoned. 1 good player knows a Widow is in play.
 ![Scarlet Woman](https://wiki.bloodontheclocktower.com/images/1/13/Icon_scarletwoman.png) | **Scarlet Woman** | If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count)
 ![Boffin](https://wiki.bloodontheclocktower.com/images/e/e0/Icon_boffin.png) | **Boffin** | The Demon (even if drunk or poisoned) has a not-in-play good character's ability. You both know which.
